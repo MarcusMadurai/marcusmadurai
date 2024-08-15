@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi!
+
+I’m Marcus, a PhD student based at the University of Birmingham working on the LHCb experiment at the European Organisation for Nuclear Research (CERN). My research involves searching for charged lepton flavour violation in rare decays, that would be a clear sign of beyond Standard Model physics! I also aid research and development for the inner-most sub-detector, the Vertex Locator, with an interest in 4D tracking technology. 
 
 <!--
 **MarcusMadurai/marcusmadurai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
